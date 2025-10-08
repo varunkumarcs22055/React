@@ -18,3 +18,23 @@
 - It helps also to host on the https .
 - Tree shaking - It will remove unused code in the file which is not required .
 - Different for dev and production .
+
+- First Project Restaurant
+
+Two types of export and import
+
+- Default Export / Import
+
+export default Component;
+import Component from "Path"
+
+- Named Export/Import
+
+export const Component;
+import {Component} from "Path";
+
+# React Hooks
+
+(Normal js utility functions)
+- useState()
+- useEffect()
